@@ -6,6 +6,8 @@ attualmente non è possibile tradurre i caratteri speciali come: "è", "é", "ò
 la versione in italiano è "script.py"
 
 per far andare il programma, è necessario avere i file "codice_morse.txt" e "alfabeto.txt" nella stessa cartella di "script.py"
+
+creato e testato su Microsoft Visual Studio Code
 # EN//
 this code, as notable from nane, translate to and from morse code a phase/word given from the user, it's able to do more than one translation without having to close the code and restart it.
 for now the special charters like "è", "é", "ò", "à" and so aren't supported.
@@ -15,3 +17,5 @@ the english version is "script_EN.py"
 comments aren't available yet in the english version
 
 to get the script to work, "codice_morse.txt" and "alfabeto.txt" needs to be in the same folder of "script_EN.py"
+
+created and testend in Microsoft Visual Studio Code
