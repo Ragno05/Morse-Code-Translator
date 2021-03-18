@@ -9,3 +9,5 @@ this code, as notable from nane, translate to and from morse code a phase/word g
 for now the special charters like "è", "é", "ò", "à" and so aren't supported.
 
 the english version is "script-EN.py"
+
+comments aren't available yet in teh english version
