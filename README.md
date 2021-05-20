@@ -20,4 +20,4 @@ the V2 is a slightly better version done after the suggestions of some online fr
 
 to get the script to work, "codice_morse.txt" and "alfabeto.txt" needs to be in the same folder of "script_EN.py"
 
-created and testend in Microsoft Visual Studio Code
+created and tested in Microsoft Visual Studio Code
